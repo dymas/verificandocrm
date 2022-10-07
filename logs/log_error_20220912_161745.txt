@@ -1,0 +1,15 @@
+Iniciando o envio de laudos: 12/09/2022, 16:17:45
+417: Laudo 7025476 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 7025421 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 6319453 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 5866316 | Não foram encontrados os seguintes metadata: ['patient_id'].
+417: Laudo 5862954 | Não foram encontrados os seguintes metadata: ['patient_id'].
+417: Laudo 5767839 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 5551718 | Não foram encontrados os seguintes metadata: ['report_content'].
+417: Laudo 5321756 | Não foram encontrados os seguintes metadata: ['patient_id'].
+417: Laudo 5313503 | Não foram encontrados os seguintes metadata: ['patient_id'].
+417: Laudo 5277624 | Não foram encontrados os seguintes metadata: ['patient_id'].
+417: Laudo 4901213 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+Finalizado o envio de laudos: 12/09/2022, 16:45:33 => Tempo 27.80406124194463 min
+Falha (11): 0.3210741389375365%
+Não encontrados (0): 0.0%

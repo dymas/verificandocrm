@@ -1,0 +1,18 @@
+Iniciando o envio de laudos: 13/09/2022, 12:22:33
+417: Laudo 11848621 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11848616 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11843763 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11701856 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11697287 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11617108 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11586727 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11586724 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11516646 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11507431 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11504630 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11491847 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11485492 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 11479275 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+Finalizado o envio de laudos: 13/09/2022, 12:27:19 => Tempo 4.774066936969757 min
+Falha (14): 3.167420814479638%
+Não encontrados (0): 0.0%

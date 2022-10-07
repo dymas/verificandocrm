@@ -1,0 +1,49 @@
+Iniciando o envio de laudos: 14/09/2022, 18:06:41
+417: Laudo 9797157 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9797129 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9792060 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9784557 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9773353 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9772945 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9772588 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9772584 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9772590 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9771527 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9769706 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9769524 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9769184 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9768138 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9767966 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9767677 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9767500 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9767495 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9767446 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9766899 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9766888 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9766881 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9765608 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9765607 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9765600 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9765599 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9765649 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9765623 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9765561 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9765566 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9765570 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9744604 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9742602 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9736624 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9725679 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9725567 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9725555 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9725536 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9717148 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9716269 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9715918 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9715066 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9714585 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9714483 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+417: Laudo 9712391 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
+Finalizado o envio de laudos: 14/09/2022, 18:19:09 => Tempo 12.468072998523713 min
+Falha (45): 5.415162454873646%
+Não encontrados (0): 0.0%
