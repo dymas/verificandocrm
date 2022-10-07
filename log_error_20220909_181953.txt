@@ -1,6 +1,0 @@
-Iniciando o envio de laudos: 09/09/2022, 18:19:53
-417: Laudo 11848469 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
-417: Laudo 11766511 | Não foram encontrados os seguintes metadata: ['radiologist_name', 'radiologist_crm_state', 'radiologist_crm_number'].
-Finalizado o envio de laudos: 09/09/2022, 18:20:04 => Tempo 0.18639601469039918 min
-Falha (2): 14.285714285714285%
-Não encontrados (0): 0.0%
